@@ -1,4 +1,8 @@
 Hi, writing from emaar jaipur greens 
 the weather is fantastic today!
 i'm not assigned to any ticket today
+<<<<<<< HEAD
 ohh i see
+=======
+merge conflict occurs when we commit the changes in the child branch [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dfirst in[2~ [2~the child branch and then in the master branch in the same file.
+>>>>>>> acf7632 (my definition of merge conflict from feature branch)
